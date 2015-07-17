@@ -1,5 +1,5 @@
 {
-  "name": "jugglingdb-postgres",
+  "name": "@atlassian/jugglingdb-postgres",
   "version": "0.1.0-atlassian-001",
   "description": "PostgreSQL adapter for JugglingDB",
   "main": "index.js",
