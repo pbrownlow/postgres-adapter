@@ -1,7 +1,7 @@
 {
   "name": "jugglingdb-postgres-atlassian",
   "version": "0.1.0-atlassian-001",
-  "description": "PostgreSQL adapter for JugglingDB",
+  "description": "PostgreSQL adapter for JugglingDB [forked from jugglingdb-postgres 0.1.0 for bugfix]",
   "main": "index.js",
   "scripts": {
     "test": "make test"
@@ -18,11 +18,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jugglingdb/postgres.git"
+    "url": "https://github.com/pbrownlow/postgres-adapter.git"
   },
-  "author": "Anatoliy Chakkaev <mail@anatoliy.in>",
+  "author": "Peter Brownlow <pbrownlow@atlassian.com>",
   "license": "MIT",
   "contributors": [
+    "Anatoliy Chakkaev <mail@anatoliy.in>",
     "Bob Matcuk (http://squeg.net/)",
     "Scott Nonnenberg (scott@nonnenberg.com)"
   ]
