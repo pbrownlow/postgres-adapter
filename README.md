@@ -13,7 +13,7 @@ To use it you need `jugglingdb@0.2.x`.
       ...
       "dependencies": {
         "jugglingdb": "0.2.x",
-        "jugglingdb-postgres": "latest"
+        "jugglingdb-postgres-atlassian": "latest"
       },
       ...
     }
@@ -23,7 +23,7 @@ To use it you need `jugglingdb@0.2.x`.
 
     ```javascript
         var Schema = require('jugglingdb').Schema;
-        var schema = new Schema('postgres', {
+        var schema = new Schema('postgres-atlassian', {
             database: 'myapp_test',
             username: 'postgres'
             // host: 'localhost',
