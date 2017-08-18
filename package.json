@@ -1,6 +1,6 @@
 {
   "name": "jugglingdb-postgres-atlassian",
-  "version": "0.1.0-atlassian-002",
+  "version": "0.1.0-atlassian-003",
   "description": "PostgreSQL adapter for JugglingDB [forked from jugglingdb-postgres 0.1.0 for bugfix]",
   "main": "index.js",
   "scripts": {
